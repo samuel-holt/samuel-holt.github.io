@@ -1,0 +1,6 @@
+// Simple single transition
+
+@mixin transition($property) {
+  -webkit-transition: $property;
+  transition: $property;
+}
