@@ -24,5 +24,6 @@ and of course to boost my
 profile, gain favour with rich and powerful potential employers,
 who I hope will one day employ me.
 
-So far I've only got two pages, so why not check out the [home page!]({{ site.baseurl }}) OMG so much pages!
+So far I've only got a few pages, so why not check out the [contact page!]({{ site.baseurl }}/contact) OMG so much
+pages!
 
